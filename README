@@ -1,0 +1,3 @@
+Zeef van Eratosthenes geeft de priemgetallen onder een bepaald getal terug
+door alle veelvouden van alle niet-priemgetallen onder de wortel van het getal
+te schrappen.
